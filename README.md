@@ -1,6 +1,6 @@
 # INTRO
 Uses dynamic form reading questions from a JSON type and uses the JSON for form controls
-Validations works for Text select and rado type questions
+Validations works for Text select and radio type questions
 
 # DynamicFormBuilder
 
