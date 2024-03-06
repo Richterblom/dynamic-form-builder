@@ -1,3 +1,7 @@
+# INTRO
+Uses dynamic form reading questions from a JSON type and uses the JSON for form controls
+Validations works for Text select and rado type questions
+
 # DynamicFormBuilder
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 17.0.8.
